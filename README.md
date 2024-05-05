@@ -33,3 +33,7 @@ Backend is set up in supabase.
 [https://www.startupschool.org/](https://www.startupschool.org/)
 
 [https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
+
+### Presentation
+
+[https://docs.google.com/presentation/d/1QrUr6GtwTfUY2N3GM2YU3QiZfS6vsNRIRAZj52Bga8k/edit?usp=sharing](https://docs.google.com/presentation/d/1QrUr6GtwTfUY2N3GM2YU3QiZfS6vsNRIRAZj52Bga8k/edit?usp=sharing)
